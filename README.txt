@@ -6,3 +6,4 @@ How I created git.
 4. Command line $ git init
 5. Created file that I wanted to add to my repository. (this one)
 6. 
+test
